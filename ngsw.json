@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1584899958636,
+  "timestamp": 1584901358612,
   "index": "https://guthar.github.io/tcn-app/index.html",
   "assetGroups": [
     {
@@ -26,6 +26,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://guthar.github.io/tcn-app/assets/icons/apple-touch-icon.png",
         "https://guthar.github.io/tcn-app/assets/icons/icon-128x128.png",
         "https://guthar.github.io/tcn-app/assets/icons/icon-144x144.png",
         "https://guthar.github.io/tcn-app/assets/icons/icon-152x152.png",
@@ -40,15 +41,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://guthar.github.io/tcn-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://guthar.github.io/tcn-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://guthar.github.io/tcn-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://guthar.github.io/tcn-app/assets/icons/apple-touch-icon.png": "2d46fdafebeb87d1dc85061a064931aceabe6df1",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-128x128.png": "f2d4b40fb534eac7ad3d58b6a914b391d7afd04b",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-144x144.png": "a0c064a2e4af07749193759eb1881289e2fe0a93",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-152x152.png": "9d4fb6e43a79d4093f370f754df626b534e2317e",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-192x192.png": "b4bc72d597afe14f766a873985d21662d4d6963b",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-384x384.png": "4bd16601d5a55ecf29f95e0d5f39682190d1e13b",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-512x512.png": "2350ca0cbe1799c1a0b080c1a2e0062db1994c8f",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-72x72.png": "77f7c0d934798b626adc7bb477f317acee451177",
+    "https://guthar.github.io/tcn-app/assets/icons/icon-96x96.png": "0dd4dac733a292582701fce02bd953202fb76fce",
+    "https://guthar.github.io/tcn-app/favicon.ico": "e724f16865675c69213ae307350aea5962f6332e",
     "https://guthar.github.io/tcn-app/index.html": "45bccbbbf7c0f45f8622aeb2050380858771c71b",
     "https://guthar.github.io/tcn-app/main-es2015.02860249d608e87c20e2.js": "c704f7a7dd8272c13bbe5323092352f04a392893",
     "https://guthar.github.io/tcn-app/main-es5.02860249d608e87c20e2.js": "2cc34fac408bd022f2badce75a3419ff07b9382b",
