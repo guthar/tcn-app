@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "tcn-app": {
@@ -117,8 +117,16 @@
               "devServerTarget": "tcn-app:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "tcn-app"
+    }
+  },
+  "defaultProject": "tcn-app",
+  "cli": {
+    "analytics": false
+  }
 }
